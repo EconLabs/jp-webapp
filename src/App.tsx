@@ -6,6 +6,7 @@ import Colaboradores from './colaboradores'; //  Cuestionarios component
 
           {/* Import all links to projects */}
 import HumanDevelopmentIndex from './proyectos/indice_desarrollo_humano';
+import DatosDemograficos from './proyectos/datos_demograficos';
 
 
           {/* Import all links to forms */}
@@ -80,6 +81,7 @@ function App() {
       <Route path="/proyectos" element={<Proyectos />} />
       <Route path="/colaboradores" element={<Colaboradores />} />
       <Route path="/proyectos/indice_desarrollo_humano" element={<HumanDevelopmentIndex/>} />
+      <Route path="/proyectos/datos_demograficos" element={<DatosDemograficos/>} />
 
 
       <Route path="/JP-541" element={<JP_541 />} />

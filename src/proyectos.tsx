@@ -15,6 +15,7 @@ function Proyectos() {
 
       <div>
         <button onClick={() => navigate('/proyectos/indice_desarrollo_humano')}>Índice de Desarrollo Humano</button>
+        <button onClick={() => navigate('/proyectos/datos_demograficos')}>Datos Demográficos</button>
         </div>
 
     </div>
