@@ -1,8 +1,5 @@
-import React from 'react';
-import { useNavigate } from 'react-router-dom';
 
 function IP_480a() {
-  const navigate = useNavigate();
 
   return (
 

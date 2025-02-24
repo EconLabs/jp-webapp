@@ -1,10 +1,9 @@
 // src/pages/home.tsx
-import React, { useState } from 'react';
-import './style/home.css';
-import './style/slider.css';
+import { useState } from 'react';
+import './styles/home.css';
+import './styles/slider.css';
 
-const Home = () => {
-
+const Home = () => {  
   // SLIDER IMAGES AND FUNCTIONS
   const [currentSlide, setCurrentSlide] = useState(0);
   const slides = [

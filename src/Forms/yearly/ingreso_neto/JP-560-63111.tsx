@@ -1,8 +1,5 @@
-import React from 'react';
-import { useNavigate } from 'react-router-dom';
 
 function JP_560_63111() {
-  const navigate = useNavigate();
 
   return (
 

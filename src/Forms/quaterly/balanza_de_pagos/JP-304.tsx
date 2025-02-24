@@ -1,10 +1,7 @@
 import React from 'react';
-import { useNavigate } from 'react-router-dom';
 import "../../../styles/JP-304.css"
 
 const JP_304: React.FC = () => {
-  const navigate = useNavigate();
-
   return (
     <div className='page'>
       <head>

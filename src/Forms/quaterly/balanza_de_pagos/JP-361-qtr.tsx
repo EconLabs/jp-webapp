@@ -1,10 +1,7 @@
 import React from 'react';
-import { useNavigate } from 'react-router-dom';
 import "../../../styles/JP-361-qrt.css"
 
 const JP_361_qrt: React.FC = () => {
-  const navigate = useNavigate();
-
   return (
     <div style={{ padding: '20px', fontFamily: 'Arial, sans-serif' }}>
       <head>

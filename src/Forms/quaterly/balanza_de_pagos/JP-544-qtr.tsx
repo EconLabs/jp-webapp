@@ -1,10 +1,6 @@
-import React from 'react';
-import { useNavigate } from 'react-router-dom';
 import "../../../styles/JP-544-qtr.css";
 
 function JP_544_qtr() {
-  const navigate = useNavigate();
-
   return (
     <>
   <meta charSet="UTF-8" />

@@ -1,8 +1,5 @@
-import React from 'react';
-import { useNavigate } from 'react-router-dom';
 
 function IP_220_qtr() {
-  const navigate = useNavigate();
 
   return (
 

@@ -1,8 +1,5 @@
-import React from 'react';
-import { useNavigate } from 'react-router-dom';
 
 function IP_540S() {
-  const navigate = useNavigate();
 
   return (
 

@@ -1,4 +1,3 @@
-import React from 'react';
 import "../../../styles/JP-362-qrt.css"
 
 function JP_362_qrt() {
