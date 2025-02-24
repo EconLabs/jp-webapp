@@ -1,7 +1,7 @@
-import React, { useState, useEffect } from 'react';
-import { useNavigate } from 'react-router-dom';
-import Plot from 'react-plotly.js';
 import "../styles/product_hts.css";
+
+// const API = "'http://192.168.50.24:5751/graph/tmp?naics_code=";
+
 
 const ProductHTS: React.FC = () => {
   return (
